@@ -40,6 +40,3 @@ A Git workflow is a defined branching and integration strategy (e.g., GitFlow, G
 
 ### 8. What is the use of .gitignore?
 A `.gitignore` file defines file patterns and paths that Git intentionally avoids tracking (such as compiled binaries, local configuration, `.env` files, and temporary logs).
-This repository demonstrates DevOps version control workflows using Git and GitHub, covering branching strategies, pull requests, release tagging, and documentation b
-
-## Branching Strategy
